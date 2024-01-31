@@ -15,3 +15,5 @@ Proyecto en 2D de GODOT ENGINE DEL DIA 29/01/2024
 ![Alt text](image-1.png)
 
 ![Alt text](image.png)
+
+![Alt text](image-4.png)
